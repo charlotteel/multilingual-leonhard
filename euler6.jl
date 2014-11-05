@@ -8,7 +8,7 @@ end
 
 function sqsum(num)
 total = 0
-for i =1:num
+for i = 1:num
 total += i
 end
 return total^2
